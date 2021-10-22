@@ -6,7 +6,7 @@ easy and automated.
 FMod is easy and simple to use, as it makes every
 option comprehensive for easy understanding.
 
-FMod-2 consists of options like
+FMod-2 consists of options like:
 ```
 * Create/Delete a file.
 * Rename a File.
@@ -29,5 +29,6 @@ git clone https://github.com/abdulrahmanabdulazeez/FMod-2.git
 
 * You can reach me through this facebook link:
  https://web.facebook.com/abdulrahman.abdulazeez.5243/
+** Version 3 coming soon!!
 * Please do not forget to follow me on github & also, leave 
 a star if you love and want more of such educative stuffs!🙏😁
