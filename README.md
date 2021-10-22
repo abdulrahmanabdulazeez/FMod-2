@@ -29,6 +29,6 @@ git clone https://github.com/abdulrahmanabdulazeez/FMod-2.git
 
 * You can reach me through this facebook link:
  https://web.facebook.com/abdulrahman.abdulazeez.5243/
-** Version 3 coming soon!!
+* Version 3 coming soon!!
 * Please do not forget to follow me on github & also, leave 
 a star if you love and want more of such educative stuffs!🙏😁
