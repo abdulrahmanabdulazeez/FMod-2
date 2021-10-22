@@ -22,8 +22,8 @@ will be very easy and automated.
 ```
 You can clone Fmod-2 by typing the link below on your
 command line; 
+git clone https://github.com/abdulrahmanabdulazeez/FMod-2.git
 ```
-https://github.com/abdulrahmanabdulazeez/FMod-2.git
 
 # My Contact
 
